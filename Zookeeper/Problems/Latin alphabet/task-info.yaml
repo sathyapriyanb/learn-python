@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    alphabet = 'abcdefghijklmnopqrstuvwxyz'
+    # put your python code here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6719
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/6719">JetBrains
+    Academy</a></html>
+  time: Tue, 29 Sep 2020 04:52:35 UTC
+record: -1
