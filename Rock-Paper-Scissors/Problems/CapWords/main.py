@@ -1,0 +1,1 @@
+print(''.join([s.title() for s in input().split("_")]))

@@ -1,0 +1,12 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: print(numbers[4:16:-1])
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6969#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 18 Jan 2021 05:08:46 UTC
+record: -1
